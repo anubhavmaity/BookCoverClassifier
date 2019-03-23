@@ -27,3 +27,7 @@ After validating the model on the validation set, below is the confusion matrix 
 ![Confusion Matrix](https://github.com/anubhavmaity/BookCoverClassifier/blob/master/readme_images/confusion_matrix_book_cover.png)
 
 The images and models are been kept in the data/book_cover.
+
+# Installation
+
+pip install fastai==1.0.45
