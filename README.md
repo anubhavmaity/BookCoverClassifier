@@ -1,4 +1,4 @@
-## Classifying books genre to technical and non-technical on the basis of their book covers
+# Classifying books genre to technical and non-technical on the basis of their book covers
 
 This Classifier tries to categorize books into either technical or non-technical
 on the basis of the book cover. The model has been trained using a imagenet
@@ -28,6 +28,6 @@ After validating the model on the validation set, below is the confusion matrix 
 
 The images and models are been kept in the data/book_cover.
 
-# Installation
+### Installation
 
 pip install fastai==1.0.45
