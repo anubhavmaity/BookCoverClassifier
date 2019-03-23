@@ -1,4 +1,4 @@
-# Classifying books into technical and non-technical categories on the basis of their book covers
+# Classifying books into technical and non-technical categories (novels, self help books etc.) on the basis of their book covers
 
 This Classifier tries to categorize books into either technical or non-technical
 on the basis of the book cover. The model has been trained using a imagenet
