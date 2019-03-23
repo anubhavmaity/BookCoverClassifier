@@ -16,9 +16,14 @@ Following transformation functions are applied for data augmentation:
 3. Warping
 
 Below are the sample training images with categories
+
+
 ![Sample Training Images](https://github.com/anubhavmaity/BookCoverClassifier/blob/master/readme_images/snap.png)
 
-After validating the model on the validation set, below is the confusion matrix
+
+After validating the model on the validation set, below is the confusion matrix <br/>
+
+
 ![Confusion Matrix](https://github.com/anubhavmaity/BookCoverClassifier/blob/master/readme_images/confusion_matrix_book_cover.png)
 
 The images and models are been kept in the data/book_cover.
